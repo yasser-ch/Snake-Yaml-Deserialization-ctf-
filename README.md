@@ -1,6 +1,6 @@
 # 🐍 Lab 19 : Snake — CTF Android Hard (CVE-2022-1471 SnakeYAML Deserialization)
 
-## Repo Name : `android-security-lab19-snake-yaml-deserialization-ctf`
+
 
 ---
 
